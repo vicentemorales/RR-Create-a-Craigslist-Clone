@@ -12,7 +12,7 @@ export const postings = [
         imageURL: '/assets/piranha.jpeg'
     },
     {
-        title: 'Need help beating the Water Temple',
+        title: 'Need help beating Elden Ring',
         description: 'Everyone told me it would be hard but I literally cannot adjust the water levels one more time without going insane',
         price: 'You name it, I\'ll pay it',
         imageURL: '/assets/water_temple.jpeg'
